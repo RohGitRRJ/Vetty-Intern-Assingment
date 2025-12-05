@@ -1,0 +1,10 @@
+fastapi
+uvicorn[standard]
+python-jose[cryptography]
+passlib[bcrypt]
+requests
+pydantic>=2.7,<3
+pydantic-settings>=2.2,<3
+python-multipart
+pytest
+httpx
